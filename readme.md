@@ -5,4 +5,4 @@ This is mern app used to manage contacts.
 It gives you the ability to create, update, delete contacts based on your needs. The contacts can also be stored based on your needs.
 
 ## Built
-Build with ❤ by David Mola
+Built with ❤ by David Mola
